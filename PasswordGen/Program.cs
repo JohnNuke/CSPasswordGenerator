@@ -8,9 +8,7 @@ namespace PasswordGen
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        //This is the starting point of the program, however all of the main code is within form1.cs
         [STAThread]
         static void Main()
         {
